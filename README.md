@@ -4,13 +4,13 @@ Welcome to the ATM Simulator program. This program covers concepts like input va
 # Features
 
 Users can:
-1) Update their PIN
-2) Check their balance
-3) Transfer money
-4) Deposit money
+1) Update their PIN.
+2) Check their balance.
+3) Transfer money.
+4) Deposit money.
 
 Admins can:
-1) Add or delete users
-2) Plot account balances
+1) Add or delete users.
+2) Plot account balances.
   
 
